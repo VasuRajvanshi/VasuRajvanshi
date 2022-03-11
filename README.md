@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasuRajvanshi
 - 👀 I’m interested in Data Analysis using Python, Java
-- 🌱 I’m currently learning Devops and CNCF Projects and interested in 
+- 🌱 I’m currently learning Devops and CNCF Projects 
 - 💞️ I’m looking to collaborate on cloud native projects
 - 📫 You can reach me through my LinkedIn :  https://www.linkedin.com/in/vasu-rajvanshi/
 
